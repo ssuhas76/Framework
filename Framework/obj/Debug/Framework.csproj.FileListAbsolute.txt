@@ -1,0 +1,66 @@
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\ApplicationInsights.config
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\csc.exe
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\System.Collections.Immutable.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\vbc.exe
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\VBCSCompiler.exe
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\roslyn\VBCSCompiler.exe.config
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Framework.dll.config
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Framework.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Framework.pdb
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.Web.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.WindowsServer.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.ApplicationInsights.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.Web.xml
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.AI.WindowsServer.xml
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.ApplicationInsights.xml
+C:\Apps\Suhas.S\Projects\Framework\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Apps\Suhas.S\Projects\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Apps\Suhas.S\Projects\Framework\Framework\obj\Debug\Framework.dll
+C:\Apps\Suhas.S\Projects\Framework\Framework\obj\Debug\Framework.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\ApplicationInsights.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\csc.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\vbc.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Framework.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Framework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Framework.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.Web.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.Web.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\obj\Debug\Framework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\SPA app\Framework\obj\Debug\Framework.pdb
